@@ -1,0 +1,12 @@
+{
+  "username": "hatim",
+  "password": "12345",
+  "localPath": "D:/Bureau/synchro/",
+  "serveurs": {
+    "lille": {
+      "alias": "lille",
+      "username": "mrabetelkhom",
+      "password": "Hatimtim123"
+    }
+  }
+}

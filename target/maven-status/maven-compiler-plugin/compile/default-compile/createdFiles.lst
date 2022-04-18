@@ -1,0 +1,9 @@
+client\flopbox\exception\ServeurNotFoundException.class
+client\flopbox\model\User.class
+client\flopbox\model\Serveur.class
+client\flopbox\exception\ConfigFileException.class
+client\flopbox\exception\BadRequestException.class
+client\flopbox\util\AgentFlopBox.class
+client\flopbox\exception\UnauthorizedException.class
+client\flopbox\Main.class
+client\flopbox\util\FileManager.class

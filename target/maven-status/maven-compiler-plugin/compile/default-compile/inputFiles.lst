@@ -1,0 +1,9 @@
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\exception\BadRequestException.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\util\AgentFlopBox.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\exception\ConfigFileException.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\exception\ServeurNotFoundException.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\exception\UnauthorizedException.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\model\Serveur.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\model\User.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\Main.java
+D:\Bureau\client-flopbox\src\main\java\client\flopbox\util\FileManager.java
