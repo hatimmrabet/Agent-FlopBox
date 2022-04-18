@@ -14,7 +14,7 @@ L'application va se connecter à la plateforme FlopBox , récupérer la liste de
 
 L'application va veuiller sur l'envoie et la reception des fichiers pour que le repertoire de synchronisation soit toujours à jour.
 
-Pour cette application, on a utilisé l'API FlopBox développé par Hatim M'RABET lors du projet precedent avec quelques modifications. L'API est telechargeable sur l'adresse suivante : [Gitlab](https://gitlab.univ-lille.fr/hatim.mrabetelkhomssi.etu/sr2-hatim-mrabet/-/tree/V4).
+Pour cette application, on a utilisé l'API FlopBox développé par Hatim M'RABET lors du projet precedent avec quelques modifications. L'API est telechargeable sur l'adresse suivante : [Github](https://github.com/hatimmrabet/API-FlopBox/tree/V4).
 
 Lors de l'utilisation du client, il faut activer le vpn, lancer le serveur API, et modifier les donneés de connection du client.
 
@@ -47,9 +47,9 @@ Les trois exceptions plus que ConfigFileExceptio sont disponible dans le package
 
 ### Etape 1: récupérer le projet
 
-L'API FlopBox est disponible sur : [Gitlab FlopBox](https://gitlab.univ-lille.fr/hatim.mrabetelkhomssi.etu/sr2-hatim-mrabet/-/tree/V4).
+L'API FlopBox est disponible sur : [Github FlopBox](https://github.com/hatimmrabet/API-FlopBox/tree/V4).
 
-Le Client FlopBox est disponible sur : [Gitlab Client](https://gitlab.univ-lille.fr/hatim.mrabetelkhomssi.etu/sr2-mrabet-aitkheddach-clientflopbox).
+Le Client FlopBox est disponible sur : [Github Client](https://github.com/hatimmrabet/Agent-FlopBox).
 
 ### Etape 2: exécuter le projet
 
